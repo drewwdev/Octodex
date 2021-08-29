@@ -61,6 +61,8 @@ li {
   padding-right: 2rem;
   padding-bottom: 2rem;
   flex-direction: column;
+  width: 50%;
+  height: auto;
 }
 img {
   background-color: white;
