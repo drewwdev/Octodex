@@ -61,7 +61,7 @@ li {
   padding-right: 2rem;
   padding-bottom: 2rem;
   flex-direction: column;
-  width: 50%;
+  max-width: 320px;
   height: auto;
 }
 img {
